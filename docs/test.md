@@ -15,3 +15,7 @@
 ## Приклад використання PUT
 
 ![image](https://github.com/user-attachments/assets/722468bc-00e8-4e9a-a32c-0ec3db0be17a)
+
+## Приклад використання DELETE
+
+![image](https://github.com/user-attachments/assets/7938e1ff-29ce-401c-a6f5-76c753fd4864)
