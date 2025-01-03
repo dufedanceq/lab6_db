@@ -19,3 +19,7 @@
 ## Приклад використання DELETE
 
 ![image](https://github.com/user-attachments/assets/7938e1ff-29ce-401c-a6f5-76c753fd4864)
+
+## Приклад оброблення помилок
+
+![image](https://github.com/user-attachments/assets/77e332ff-1646-4baf-b69c-8185446bc24f)
