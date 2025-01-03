@@ -8,3 +8,10 @@
 
 ![image](https://github.com/user-attachments/assets/488c481b-c639-4b98-856d-6b820fb46621)
 
+## Приклад використання POST
+
+![image](https://github.com/user-attachments/assets/74f241b6-8436-4664-8000-a27711b38842)
+
+## Приклад використання PUT
+
+![image](https://github.com/user-attachments/assets/722468bc-00e8-4e9a-a32c-0ec3db0be17a)
